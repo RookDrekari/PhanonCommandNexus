@@ -1,0 +1,14 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+#terminal {
+    width: 80%;
+    height: 80%;
+}
