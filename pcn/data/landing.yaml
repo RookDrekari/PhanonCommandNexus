@@ -1,30 +1,39 @@
+# Hero
 hero:
   enable: true
   weight: 10
   template: hero
+
   backgroundImage:
     path: "images/templates/hero"
     filename:
       desktop: "gradient-desktop.webp"
       mobile: "gradient-mobile.webp"
+
   badge:
-    text: v0.1.0
-    color: primary
-    pill: false
-    soft: true
+    text: v0.0.3
+    color: primary # primary, secondary, success, danger, warning, info, light, dark
+    pill: false # boolean
+    soft: true # boolean
+
   title: "Phannon Command Nexus"
   subtitle: The complete works of the **New Coalition of Nations**
-image:
-  path: "images/flags"
-  filename: "nconflag.png"
-  alt: "flag of the new coalition of nations"
-  boxShadow: true
-  rounded: true
+
+  image:
+    path: "images/flags" # path to image under configured assets directory. default 'images'
+    filename: "nconflag.png" # filename of your hero image (including file extension)
+    alt: "Lotus Docs Screenshot" # Optional but recommended
+    boxShadow: true # default 'false' (excludes .svg images)
+    rounded: false # round the image corners? default 'false' (excludes .svg images)
+
   ctaButton:
-    icon: home
-    btnText: "Enter the Nexus"
-    url: "/pages/map/map.html"
+    icon: rocket_launch
+    btnText: "Enter the PCN"
+    url: "/docs"
   cta2Button:
-    icon: map
+    icon: language
     btnText: "View the Map"
     url: "/pages/map/map.html"
+
+  info: "Building this has been a great learning experience."
+
