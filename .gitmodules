@@ -1,0 +1,3 @@
+[submodule "pcn/themes/lotusdocs"]
+	path = pcn/themes/lotusdocs
+	url = https://github.com/colinwilson/lotusdocs
