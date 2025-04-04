@@ -6,14 +6,14 @@
     <description>Recent content in Beginners on Phannon Command Nexus</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Apr 2025 00:37:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 20:30:49 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/beginners/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Overview</title>
       <link>http://localhost:1313/docs/overview/</link>
       <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
       <guid>http://localhost:1313/docs/overview/</guid>
-      <description>&lt;h2 id=&#34;welcome-to-the-nexus&#34;&gt;Welcome to the Nexus &lt;a href=&#34;#welcome-to-the-nexus&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Greetings Soveriegn.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;welcome-to-the-nexus&#34;&gt;Welcome to the Nexus &lt;a href=&#34;#welcome-to-the-nexus&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Greetings Soveriegn, I am NEXUS. Your status as a head of state has granted you access to my systems. With this terminal, you can view vital data about all nations on Enkon. To start, I have the following systems online:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a data-bs-delay=&#34;{&amp;#34;hide&amp;#34;:300,&amp;#34;show&amp;#34;:550}&#34; data-bs-html=&#34;true&#34; data-bs-title=&#34;&lt;a href=&#39;http://localhost:1313/docs/manuals/&#39;&gt;&lt;p&gt;DOCS&lt;/p&gt;&lt;strong&gt;Manuals&lt;/strong&gt;&lt;br&gt;Instructions and guides to our various offerings.&lt;/a&gt;&#34; data-bs-toggle=&#34;tooltip&#34; href=&#34;http://localhost:1313/docs/manuals/&#34;&gt;Manuals&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Some parts of our glorious region can be complicated, but they don&amp;rsquo;t have to be!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a data-bs-delay=&#34;{&amp;#34;hide&amp;#34;:300,&amp;#34;show&amp;#34;:550}&#34; data-bs-html=&#34;true&#34; data-bs-title=&#34;&lt;a href=&#39;http://localhost:1313/docs/nations/&#39;&gt;&lt;p&gt;DOCS&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,38 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/docs/changeblog/2024/welcome-to-the-repository/</loc>
+    <lastmod>2025-04-03T20:41:47-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/changeblog/2024/some-musings-on-production/</loc>
+    <lastmod>2025-04-03T20:30:49-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/changeblog/2024/whats-happening-around-delta/</loc>
+    <lastmod>2025-04-03T20:30:49-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/changeblog/2024/</loc>
+    <lastmod>2025-04-03T20:30:49-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/changeblog/2025/</loc>
+    <lastmod>2025-04-03T20:30:49-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/docs/overview/</loc>
-    <lastmod>2025-04-04T00:37:08+00:00</lastmod>
+    <lastmod>2025-04-03T20:30:49-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/manuals/</loc>
     <lastmod>2025-04-04T00:37:08+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/nations/</loc>
-    <lastmod>2025-04-04T00:37:08+00:00</lastmod>
+    <lastmod>2025-04-03T20:30:49-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/changeblog/</loc>
-    <lastmod>2025-04-03T20:47:36+00:00</lastmod>
+    <lastmod>2025-04-03T20:30:49-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/nations/athretvari/</loc>
-    <lastmod>2025-04-04T00:37:08+00:00</lastmod>
+    <lastmod>2025-04-03T20:30:49-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/nations/nedea/</loc>
     <lastmod>2025-04-04T00:37:08+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/</loc>
-    <lastmod>2025-04-04T00:37:08+00:00</lastmod>
+    <lastmod>2025-04-03T20:41:47-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-04T00:37:08+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/docs/changeblog/2024/welcome-to-the-repository/</loc>
-    <lastmod>2025-04-03T20:47:36+00:00</lastmod>
+    <lastmod>2025-04-03T20:41:47-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/beginners/</loc>
-    <lastmod>2025-04-04T00:37:08+00:00</lastmod>
+    <lastmod>2025-04-03T20:30:49-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-04-04T00:37:08+00:00</lastmod>
+    <lastmod>2025-04-03T20:30:49-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url>
