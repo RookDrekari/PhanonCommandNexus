@@ -1,11 +1,84 @@
-baseURL = 'https://pcn.drekar.tech'
-languageCode = 'en-us'
-title = 'Phannon Command Nexus'
+baseURL = "https://pcn.drekar.tech/"
+languageCode = "en-us"
+contentDir = "content"
+enableEmoji = true
+enableGitInfo = true  # Optional: enable if you want Git info on pages (needs repo setup)
+
+defaultContentLanguage = "en"
+[languages]
+  [languages.en]
+    title = "Phannon Command Nexus"
+    languageName = "English"
+    weight = 10
 
 [module]
-    [[module.imports]]
-        path = "github.com/colinwilson/lotusdocs"
-        disable = false
-    [[module.imports]]
-        path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
-        disable = false
+  [module.hugoVersion]
+    extended = true
+    min = "0.124.0"  # Lotus Docs requires this, your v0.145.0 is fine
+  [[module.imports]]
+    path = "github.com/colinwilson/lotusdocs"
+    disable = false
+  [[module.imports]]
+    path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
+    disable = false
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.tableOfContents]
+    endLevel = 3
+    startLevel = 1
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allows raw HTML in Markdown
+
+[params]
+  google_fonts = [
+    ["Inter", "300, 400, 600, 700"],
+    ["JetBrains Mono", "400, 500, 700"]
+  ]
+
+  sans_serif_font = "Inter"
+  secondary_font  = "Inter"
+  mono_font       = "JetBrains Mono"
+
+  [params.footer]
+    copyright = "Built and maintained by Rook Drekar(Nedea). Built with [**Lotus Docs**](https://github.com/colinwilson/lotusdocs)"
+    version = true  # Shows git commit info if enableGitInfo is true
+
+  [params.social]
+    github = "RookDrekari"  # Your GitHub ID
+    twitter = ""           # Add your Twitter ID if you have one
+    # rss = true           # Uncomment to show RSS icon
+
+  [params.docs]
+    title = "Phannon Command Nexus Documentation"
+    pathName = "docs"       # Matches your content in /docs/
+    themeColor = "cyan"     # Optional: sets accent color (blue, green, red, etc.)
+    darkMode = true         # Enables dark mode
+    darkModeToggle = true   # Shows the dark mode toggle button
+    prism = true            # Enables syntax highlighting
+    prismTheme = "lotusdocs"  # Options: lotusdocs, solarized-light, twilight, lucario
+    repoURL = "https://github.com/RookDrekari/PhannonCommandNexus"
+    repoBranch = "main"
+    editPage = true         # Shows "Edit this page" link
+    lastMod = true          # Shows last modified date
+    lastModRelative = true  # Formats last modified as relative time
+    sidebarIcons = true     # Shows icons in sidebar
+    breadcrumbs = true      # Shows breadcrumbs
+    backToTop = true        # Shows back-to-top button
+    toc = true              # Enables table of contents
+    tocMobile = true        # Shows TOC on mobile
+    scrollSpy = true        # Enables scrollspy on TOC
+    descriptions = true     # Shows front matter descriptions
+    titleIcon = true        # Shows icons before titles if set in front matter
+    navDesc = true          # Shows descriptions in navigation
+    navDescTrunc = 30       # Truncates navigation descriptions
+    listDescTrunc = 100     # Truncates list card descriptions
+    intLinkTooltip = true   # Tooltips for internal links
+
+[menu]
+  [[menu.primary]]
+    name = "Docs"
+    url = "/docs/"
+    identifier = "docs"
+    weight = 10
