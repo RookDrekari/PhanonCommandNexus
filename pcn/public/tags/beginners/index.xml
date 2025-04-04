@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beginners on Phannon Command Nexus</title>
-    <link>https://pcn.drekar.tech/tags/beginners/</link>
+    <link>http://localhost:1313/tags/beginners/</link>
     <description>Recent content in Beginners on Phannon Command Nexus</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 May 2023 22:37:22 +0100</lastBuildDate>
-    <atom:link href="https://pcn.drekar.tech/tags/beginners/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Apr 2025 00:37:08 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/beginners/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Overview</title>
-      <link>https://pcn.drekar.tech/docs/overview/</link>
+      <link>http://localhost:1313/docs/overview/</link>
       <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
-      <guid>https://pcn.drekar.tech/docs/overview/</guid>
+      <guid>http://localhost:1313/docs/overview/</guid>
       <description>&lt;h2 id=&#34;welcome-to-the-nexus&#34;&gt;Welcome to the Nexus &lt;a href=&#34;#welcome-to-the-nexus&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Greetings Soveriegn.&lt;/p&gt;</description>
     </item>
   </channel>

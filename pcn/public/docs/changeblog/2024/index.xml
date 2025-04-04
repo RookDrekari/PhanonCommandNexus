@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2024 on Phannon Command Nexus</title>
+    <link>http://localhost:1313/docs/changeblog/2024/</link>
+    <description>Recent content in 2024 on Phannon Command Nexus</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Apr 2025 20:47:36 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/changeblog/2024/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to the Repository</title>
+      <link>http://localhost:1313/docs/changeblog/2024/welcome-to-the-repository/</link>
+      <pubDate>Tue, 19 Nov 2024 20:47:36 +0000</pubDate>
+      <guid>http://localhost:1313/docs/changeblog/2024/welcome-to-the-repository/</guid>
+      <description>&lt;p&gt;Phew, making a whole repository is a lot of work. So many pages and so many broken things everywhere. I appreciate all the comments and attempts at critique so far. It has been super fun building this whole thing out, working on the map, and learning all sorts of new things.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-changes&#34;&gt;The Changes &lt;a href=&#34;#the-changes&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Are there really any changes that can be said when you are creating something entirely new? No, there are not. But! That won&amp;rsquo;t stop me from telling you all the crud I&amp;rsquo;ve been getting up to since this project began.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Some Musings on Production</title>
+      <link>http://localhost:1313/docs/changeblog/2024/some-musings-on-production/</link>
+      <pubDate>Tue, 26 Nov 2024 20:47:36 +0000</pubDate>
+      <guid>http://localhost:1313/docs/changeblog/2024/some-musings-on-production/</guid>
+      <description>&lt;p&gt;There has been some talk about stats again. You can never really get away from it can you? I have been dwelling on this subject for a minute now and I think I have a fairly solid idea for how to handle production, income, trade, and all the bells and whistles that comes with. Firstly, I want to cover Production Classes.&lt;/p&gt;&#xA;&lt;p&gt;Also, I AM trying to make a map here guys, I know the stat stuff is interesting, but map comes first! All of this is on the Wish List after all.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What&#39;s Happening Around Delta?</title>
+      <link>http://localhost:1313/docs/changeblog/2024/whats-happening-around-delta/</link>
+      <pubDate>Fri, 06 Dec 2024 20:47:36 +0000</pubDate>
+      <guid>http://localhost:1313/docs/changeblog/2024/whats-happening-around-delta/</guid>
+      <description>&lt;h2 id=&#34;regional-events&#34;&gt;Regional Events &lt;a href=&#34;#regional-events&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;I am thinking a fun way to keep engagement in the region is to better schedule and utilize our regional events. Which, is just mostly the Gala (sometimes) and the World&amp;rsquo;s Fair(once, sorta). I think if we properly schedule these out and have something to look forward to, we can keep the wheels turning just a tad bit faster. Months will have a specific theme, event, or topic for an RP. My current idea goes a little something like this&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

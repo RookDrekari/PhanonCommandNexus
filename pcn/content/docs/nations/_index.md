@@ -1,5 +1,5 @@
 ---
-weight: 300
+weight: 250
 title: "National Index"
 description: "A brief overview of our lovely residents."
 icon: "stars"

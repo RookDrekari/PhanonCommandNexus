@@ -5,12 +5,12 @@ import yaml
 import os
 import re
 
-# Complete census IDs from your list
+# Complete list of census IDs
 CENSUS_IDS = {
     "Civil Rights": 0,
     "Economy": 1,
     "Political Freedoms": 2,
-    "Population": 3,  # Handled separately via POPULATION tag
+    "Population": 3, 
     "Wealth Gaps": 4,
     "Death Rate": 5,
     "Compassion": 6,
@@ -113,7 +113,7 @@ def fetch_census_report(nation):
         new_data = {
             "Nation": nation.title(),
             "Region": root.find('REGION').text,
-            "Population": int(root.find('POPULATION').text),  # In millions, per NS API
+            "Population": int(root.find('POPULATION').text), 
             "Currency": root.find('CURRENCY').text,
             "Animal": root.find('ANIMAL').text,
             "Census": {}
@@ -121,7 +121,7 @@ def fetch_census_report(nation):
 
         # Extract all census data
         for stat_name, census_id in CENSUS_IDS.items():
-            if stat_name != "Population":  # Population handled separately
+            if stat_name != "Population":
                 value = float(root.find(f".//SCALE[@id='{census_id}']/SCORE").text)
                 new_data["Census"][stat_name] = value
 

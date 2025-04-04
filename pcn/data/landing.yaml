@@ -9,8 +9,8 @@ hero:
   backgroundImage:
     path: "images/"
     filename:
-      desktop: "abraxiCluster.png"
-      mobile: "abraxiCluster.png"
+      desktop: "nebWall.jpg"
+      mobile: "nebWall.jpg"
 
   badge:
     text: v0.1.0
