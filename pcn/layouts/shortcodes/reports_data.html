@@ -1,0 +1,26 @@
+{{ $path := .Get 0 }}
+{{ $yaml := readFile $path | transform.Unmarshal }}
+{{ with $yaml }}
+  {{ $markdown := "" }}
+  {{ range $key, $value := . }}
+    {{ if reflect.IsMap $value }}
+      {{ $markdown = printf "%s\n**%s**\n" $markdown ($key | humanize) }}
+      {{ range $subKey, $subValue := $value }}
+        {{ if eq (printf "%T" $subValue) "float64" }}
+          {{ $markdown = printf "%s- **%s**: %.0f\n" $markdown ($subKey | humanize) $subValue }}
+        {{ else }}
+          {{ $markdown = printf "%s- **%s**: %v\n" $markdown ($subKey | humanize) $subValue }}
+        {{ end }}
+      {{ end }}
+    {{ else }}
+      {{ if eq (printf "%T" $value) "float64" }}
+        {{ $markdown = printf "%s\n**%s**: %.0f\n" $markdown ($key | humanize) $value }}
+      {{ else }}
+        {{ $markdown = printf "%s\n**%s**: %v\n" $markdown ($key | humanize) $value }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ $markdown | markdownify }}
+{{ else }}
+  Failed to load YAML from {{ $path }}
+{{ end }}

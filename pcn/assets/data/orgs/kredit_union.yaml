@@ -1,0 +1,24 @@
+# Kredit Union
+
+Shares:
+  nedea: 25000000
+  nation_m: 1000000
+  moarfall: 25000000
+  st_saratoga: 25000000
+  the_way_sun_cooperation: 1000000
+  reserve: 23000000
+  outstanding: 0
+Members:
+  - nedea
+  - nation_m
+  - moarfall
+  - st_saratoga
+  - the_way_sun_cooperation
+Partners:
+Balance:
+  Primary: 0
+Rates:
+  member: .03
+  partner: .04
+  other: .05
+  

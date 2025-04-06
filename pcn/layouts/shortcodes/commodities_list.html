@@ -1,0 +1,25 @@
+{{ $path := .Get 0 }}
+{{ $yaml := readFile $path | transform.Unmarshal }}
+{{ with $yaml }}
+  {{ $markdown := "" }}
+  {{ range $industry, $categories := . }}
+    {{ $markdown = printf "%s\n<details>\n<summary>%s</summary>\n" $markdown ($industry | humanize) }}
+    {{ range $category, $products := $categories }}
+      {{ $markdown = printf "%s\n### %s\n" $markdown $category }}
+      {{ range $product, $details := $products }}
+        {{ $markdown = printf "%s\n#### %s\n" $markdown $product }}
+        {{ range $key, $value := $details }}
+          {{ if eq (printf "%T" $value) "float64" }}
+            {{ $markdown = printf "%s- **%s**: %.2f\n" $markdown ($key | humanize) $value }}
+          {{ else }}
+            {{ $markdown = printf "%s- **%s**: %v\n" $markdown ($key | humanize) $value }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{ $markdown = printf "%s\n</details>\n" $markdown }}
+  {{ end }}
+  {{ $markdown | markdownify }}
+{{ else }}
+  Failed to load YAML from {{ $path }}
+{{ end }}

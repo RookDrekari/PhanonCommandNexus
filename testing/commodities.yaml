@@ -1,0 +1,285 @@
+Arms Manufacturing:
+  ARMBUL:
+    Ammo:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Standard rounds for all your firepower needs
+  ARMCON:
+    Handguns:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Compact protection for the modern citizen
+  ARMLUX:
+    Missiles:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: High-explosive payloads for strategic strikes
+Automobile Manufacturing:
+  AUTBUL:
+    Bikes:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Two-wheeled freedom for the open road
+  AUTCON:
+    Cars:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Family-friendly wheels with style
+  AUTLUX:
+    Limos:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Luxury rides for the elite
+Basket Weaving:
+  BASBUL:
+    Bags:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Woven totes for everyday carry
+  BASCON:
+    Backpacks:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Sturdy packs for adventurers
+  BASLUX:
+    Briefcases:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Elegant cases for the professional
+Beverage Sales:
+  BEVBUL:
+    Tea:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Soothing leaves steeped in tradition
+  BEVCON:
+    Soda:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Fizzy refreshment for all occasions
+  BEVLUX:
+    Wine:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Aged vintages for refined palates
+Book Publishing:
+  BOOBUL:
+    Pamphlets:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Quick reads for spreading ideas
+  BOOCON:
+    Novels:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Epic tales bound in paper
+  BOOLUX:
+    Manuals:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Detailed guides for the curious mind
+Cheese Exports:
+  CHEBUL:
+    Processed Cheese:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Melty goodness in every slice
+  CHECON:
+    Cheddar:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Sharp and tangy classic
+  CHELUX:
+    Fetta:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Crumbly delight for gourmet dishes
+Furniture Restoration:
+  FURBUL:
+    Stools:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Simple seats with rustic charm
+  FURCON:
+    Desks:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Workspaces reborn with character
+  FURLUX:
+    Chandeliers:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Opulent lights from yesteryear
+Gambling:
+  GAMBUL:
+    Poker Chips:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Tokens for high-stakes fun
+  GAMCON:
+    Cards:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Decks for every game night
+  GAMLUX:
+    Slot Machines:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Gleaming reels of fortune
+Information Technology:
+  INFBUL:
+    Silicon Chips:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Tiny brains for big tech
+  INFCON:
+    Cell Phones:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Pocket-sized connection hubs
+  INFLUX:
+    Mainframes:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Powerhouses of computation
+Insurance:
+  INSBUL:
+    Renter Policies:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Coverage for temporary homes
+  INSCON:
+    Car Policies:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Safety nets for your ride
+  INSLUX:
+    Travel Policies:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Protection for globe-trotters
+Mining:
+  MINBUL:
+    Various Rocks:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: "Earth\xE2\u20AC\u2122s raw treasures"
+  MINCON:
+    Coal:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Black fuel of industry
+  MINLUX:
+    Platinum:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Shiny metal for the elite
+Pizza Delivery:
+  PIZBUL:
+    Bread Sticks:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Crunchy sides for pizza nights
+  PIZCON:
+    Pepperoni Pizzas:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Spicy slices of joy
+  PIZLUX:
+    Deep Dish Pizzas:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Thick pies for hearty appetites
+Retail:
+  RETBUL:
+    Socks:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Cozy threads for your feet
+  RETCON:
+    T-Shirts:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Casual tops for all
+  RETLUX:
+    Dresses:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Elegant wear for special days
+Timber Woodchipping:
+  TIMBUL:
+    Sawdust:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Fine wood for crafting
+  TIMCON:
+    2x4s:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Building blocks of homes
+  TIMLUX:
+    Exotic Wood:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Rare timber for luxury
+Trout Fishing:
+  TROBUL:
+    Trout:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Fresh catch from clear waters
+  TROCON:
+    Whale Oil:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Rich oil from the deep
+  TROLUX:
+    Lobster:
+      Global: true
+      cbExport: 1.25
+      cbImport: 0.75
+      desc: Oceanic bottom feeders

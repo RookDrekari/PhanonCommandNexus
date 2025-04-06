@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/docs/nations/athretvari/</loc>
+    <lastmod>2025-04-03T20:30:49-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/docs/changeblog/2024/welcome-to-the-repository/</loc>
     <lastmod>2025-04-03T20:41:47-05:00</lastmod>
   </url><url>
@@ -20,8 +23,23 @@
     <loc>http://localhost:1313/docs/overview/</loc>
     <lastmod>2025-04-03T20:30:49-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/manuals/</loc>
+    <loc>http://localhost:1313/docs/nations/moarfall/</loc>
+    <lastmod>2025-04-03T22:19:12+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/nations/nation_m/</loc>
+    <lastmod>2025-04-05T15:17:35-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/nations/nedea/</loc>
     <lastmod>2025-04-04T00:37:08+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/nations/st_saratoga/</loc>
+    <lastmod>2025-04-05T15:51:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/nations/the_way_sun_cooperation/</loc>
+    <lastmod>2025-04-05T15:57:01-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/resources/</loc>
+    <lastmod>2025-04-03T20:47:36+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/nations/</loc>
     <lastmod>2025-04-03T20:30:49-05:00</lastmod>
@@ -29,17 +47,29 @@
     <loc>http://localhost:1313/docs/changeblog/</loc>
     <lastmod>2025-04-03T20:30:49-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/nations/athretvari/</loc>
-    <lastmod>2025-04-03T20:30:49-05:00</lastmod>
+    <loc>http://localhost:1313/docs/resources/manuals/commodities/</loc>
+    <lastmod>2025-04-05T18:03:35-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/nations/nedea/</loc>
-    <lastmod>2025-04-04T00:37:08+00:00</lastmod>
+    <loc>http://localhost:1313/docs/resources/lore/</loc>
+    <lastmod>2025-04-05T18:01:55-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/resources/manuals/</loc>
+    <lastmod>2025-04-05T18:01:36-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/organizations/echelonaccord/</loc>
+    <lastmod>2025-04-05T13:13:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/resources/lore/timeline/</loc>
+    <lastmod>2025-04-03T22:19:12+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/</loc>
-    <lastmod>2025-04-03T20:41:47-05:00</lastmod>
+    <lastmod>2025-04-05T18:03:35-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-03T20:41:47-05:00</lastmod>
+    <lastmod>2025-04-05T18:03:35-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/organizations/</loc>
+    <lastmod>2025-04-05T13:11:45-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/beginners/</loc>
     <lastmod>2025-04-03T20:30:49-05:00</lastmod>

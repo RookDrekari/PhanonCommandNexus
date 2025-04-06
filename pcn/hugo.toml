@@ -40,9 +40,11 @@ defaultContentLanguage = "en"
   sans_serif_font = "Inter"
   secondary_font  = "Inter"
   mono_font       = "JetBrains Mono"
+  custom_css = ["css/custom.css"]  
+
 
   [params.footer]
-    copyright = "Built and maintained by Rook Drekar(Nedea). Built with [**Lotus Docs**](https://github.com/colinwilson/lotusdocs)"
+    copyright = "Built and maintained by Rook Drekar(Nedea). Powered by [**Lotus Docs**](https://github.com/colinwilson/lotusdocs)"
     version = true  # Shows git commit info if enableGitInfo is true
 
   [params.social]

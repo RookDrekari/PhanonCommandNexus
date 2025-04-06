@@ -1,0 +1,337 @@
+# Commodities
+Arms Manufacturing:
+  ARMBUL:
+    Ammo:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Standard rounds for all your firepower needs"
+      Origin: "broker"
+  ARMCON:
+    Handguns:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Compact protection for the modern citizen"
+      Origin: "broker"
+    Tanks:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Armored beasts of war"
+      Origin: "broker"
+  ARMLUX:
+    Missiles:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "High-explosive payloads for strategic strikes"
+      Origin: "broker"
+Automobile Manufacturing:
+  AUTBUL:
+    Bikes:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Two-wheeled freedom for the open road"
+      Origin: "broker"
+  AUTCON:
+    Cars:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Family-friendly wheels with style"
+      Origin: "broker"
+  AUTLUX:
+    Limos:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Luxury rides for the elite"
+      Origin: "broker"
+Basket Weaving:
+  BASBUL:
+    Bags:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Woven totes for everyday carry"
+      Origin: "broker"
+  BASCON:
+    Backpacks:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Sturdy packs for adventurers"
+      Origin: "broker"
+  BASLUX:
+    Briefcases:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Elegant cases for the professional"
+      Origin: "broker"
+Beverage Sales:
+  BEVBUL:
+    Tea:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Soothing leaves steeped in tradition"
+      Origin: "broker"
+  BEVCON:
+    Soda:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Fizzy refreshment for all occasions"
+      Origin: "broker"
+  BEVLUX:
+    Wine:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Aged vintages for refined palates"
+      Origin: "broker"
+Book Publishing:
+  BOOBUL:
+    Pamphlets:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Quick reads for spreading ideas"
+      Origin: "broker"
+  BOOCON:
+    Novels:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Epic tales bound in paper"
+      Origin: "broker"
+  BOOLUX:
+    Manuals:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Detailed guides for the curious mind"
+      Origin: "broker"
+Cheese Exports:
+  CHEBUL:
+    Processed Cheese:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Melty goodness in every slice"
+      Origin: "broker"
+  CHECON:
+    Cheddar:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Sharp and tangy classic"
+      Origin: "broker"
+  CHELUX:
+    Fetta:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Crumbly delight for gourmet dishes"
+      Origin: "broker"
+Furniture Restoration:
+  FURBUL:
+    Stools:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Simple seats with rustic charm"
+      Origin: "broker"
+  FURCON:
+    Desks:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Workspaces reborn with character"
+      Origin: "broker"
+  FURLUX:
+    Chandeliers:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Opulent lights from yesteryear"
+      Origin: "broker"
+Gambling:
+  GAMBUL:
+    Poker Chips:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Tokens for high-stakes fun"
+      Origin: "broker"
+  GAMCON:
+    Cards:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Decks for every game night"
+      Origin: "broker"
+  GAMLUX:
+    Slot Machines:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Gleaming reels of fortune"
+      Origin: "broker"
+Information Technology:
+  INFBUL:
+    Silicon Chips:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Tiny brains for big tech"
+      Origin: "broker"
+  INFCON:
+    Cell Phones:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Pocket-sized connection hubs"
+      Origin: "broker"
+  INFLUX:
+    Mainframes:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Powerhouses of computation"
+      Origin: "broker"
+Insurance:
+  INSBUL:
+    Renter Policies:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Coverage for temporary homes"
+      Origin: "broker"
+  INSCON:
+    Car Policies:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Safety nets for your ride"
+      Origin: "broker"
+  INSLUX:
+    Travel Policies:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Protection for globe-trotters"
+      Origin: "broker"
+Mining:
+  MINBUL:
+    Various Rocks:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Earth’s raw treasures"
+      Origin: "broker"
+  MINCON:
+    Coal:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Black fuel of industry"
+      Origin: "broker"
+  MINLUX:
+    Platinum:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Shiny metal for the elite"
+      Origin: "broker"
+Pizza Delivery:
+  PIZBUL:
+    Bread Sticks:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Crunchy sides for pizza nights"
+      Origin: "broker"
+  PIZCON:
+    Pepperoni Pizzas:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Spicy slices of joy"
+      Origin: "broker"
+  PIZLUX:
+    Deep Dish Pizzas:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Thick pies for hearty appetites"
+      Origin: "broker"
+Retail:
+  RETBUL:
+    Socks:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Cozy threads for your feet"
+      Origin: "broker"
+  RETCON:
+    T-Shirts:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Casual tops for all"
+      Origin: "broker"
+  RETLUX:
+    Dresses:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Elegant wear for special days"
+      Origin: "broker"
+Timber Woodchipping:
+  TIMBUL:
+    Sawdust:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Fine wood for crafting"
+      Origin: "broker"
+  TIMCON:
+    2x4s:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Building blocks of homes"
+      Origin: "broker"
+  TIMLUX:
+    Exotic Wood:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Rare timber for luxury"
+      Origin: "broker"
+Trout Fishing:
+  TROBUL:
+    Trout:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Fresh catch from clear waters"
+      Origin: "broker"
+  TROCON:
+    Whale Oil:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Rich oil from the deep"
+      Origin: "broker"
+  TROLUX:
+    Lobster:
+      cbImport: 0.75
+      cbExport: 1.25
+      Global: true
+      desc: "Oceanic bottom feeders"
+      Origin: "broker"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lore on Phannon Command Nexus</title>
+    <link>http://localhost:1313/docs/resources/lore/</link>
+    <description>Recent content in Lore on Phannon Command Nexus</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Apr 2025 22:19:12 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/resources/lore/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Timeline of Enkon</title>
+      <link>http://localhost:1313/docs/resources/lore/timeline/</link>
+      <pubDate>Thu, 03 Apr 2025 22:19:12 +0000</pubDate>
+      <guid>http://localhost:1313/docs/resources/lore/timeline/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Around -2000 AI, the Phanon Intergalactic vessel PIV Stellar Waves, carrying a research crew in stasis, arrived in the Enkon system. Detecting Enkon Delta’s habitability, the crew discovered a derelict station in orbit. After docking and repairing its missing control center—recovered from the planet’s surface—the station activated, revealing itself as NEXUS, a Doec AI. NEXUS shared knowledge of the gate network but prolonged exposure to Doecium (the material with which most of the station is constructed of) rendered the crew infertile. Unable to return home, they activated a beacon via NEXUS to summon humanity, then sealed the station.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
