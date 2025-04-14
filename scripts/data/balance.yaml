@@ -1,0 +1,190 @@
+nations:
+- _nation: st_saratoga
+  treasury:
+    sovereign: 0
+  stocks:
+    DLTA: 0
+  stash:
+    arm: 0
+    aut: 0
+    bas: 0
+    bev: 0
+    boo: 0
+    che: 0
+    fur: 0
+    gam: 0
+    inf: 0
+    ins: 0
+    min: 0
+    piz: 0
+    ret: 0
+    tim: 0
+    tro: 0
+- _nation: athretvari
+  treasury:
+    sovereign: 0
+  stocks:
+    DLTA: 0
+  stash:
+    arm: 0
+    aut: 0
+    bas: 0
+    bev: 0
+    boo: 0
+    che: 0
+    fur: 0
+    gam: 0
+    inf: 0
+    ins: 0
+    min: 0
+    piz: 0
+    ret: 0
+    tim: 0
+    tro: 0
+- _nation: onza
+  treasury:
+    sovereign: 0
+  stocks:
+    DLTA: 0
+  stash:
+    arm: 0
+    aut: 0
+    bas: 0
+    bev: 0
+    boo: 0
+    che: 0
+    fur: 0
+    gam: 0
+    inf: 0
+    ins: 0
+    min: 0
+    piz: 0
+    ret: 0
+    tim: 0
+    tro: 0
+- _nation: nation_m
+  treasury:
+    sovereign: 0
+  stocks:
+    DLTA: 0
+  stash:
+    arm: 0
+    aut: 0
+    bas: 0
+    bev: 0
+    boo: 0
+    che: 0
+    fur: 0
+    gam: 0
+    inf: 0
+    ins: 0
+    min: 0
+    piz: 0
+    ret: 0
+    tim: 0
+    tro: 0
+- _nation: nedea
+  treasury:
+    sovereign: 0
+  stocks:
+    DLTA: 0
+  stash:
+    arm: 0
+    aut: 0
+    bas: 0
+    bev: 0
+    boo: 0
+    che: 0
+    fur: 0
+    gam: 0
+    inf: 0
+    ins: 0
+    min: 0
+    piz: 0
+    ret: 0
+    tim: 0
+    tro: 0
+- _nation: shinkokku
+  treasury:
+    sovereign: 0
+  stocks:
+    DLTA: 0
+  stash:
+    arm: 0
+    aut: 0
+    bas: 0
+    bev: 0
+    boo: 0
+    che: 0
+    fur: 0
+    gam: 0
+    inf: 0
+    ins: 0
+    min: 0
+    piz: 0
+    ret: 0
+    tim: 0
+    tro: 0
+- _nation: the_way_sun_cooperation
+  treasury:
+    sovereign: 0
+  stocks:
+    DLTA: 0
+  stash:
+    arm: 0
+    aut: 0
+    bas: 0
+    bev: 0
+    boo: 0
+    che: 0
+    fur: 0
+    gam: 0
+    inf: 0
+    ins: 0
+    min: 0
+    piz: 0
+    ret: 0
+    tim: 0
+    tro: 0
+- _nation: croxoco
+  treasury:
+    sovereign: 0
+  stocks:
+    DLTA: 0
+  stash:
+    arm: 0
+    aut: 0
+    bas: 0
+    bev: 0
+    boo: 0
+    che: 0
+    fur: 0
+    gam: 0
+    inf: 0
+    ins: 0
+    min: 0
+    piz: 0
+    ret: 0
+    tim: 0
+    tro: 0
+- _nation: moarfall
+  treasury:
+    sovereign: 0
+  stocks:
+    DLTA: 0
+  stash:
+    arm: 0
+    aut: 0
+    bas: 0
+    bev: 0
+    boo: 0
+    che: 0
+    fur: 0
+    gam: 0
+    inf: 0
+    ins: 0
+    min: 0
+    piz: 0
+    ret: 0
+    tim: 0
+    tro: 0

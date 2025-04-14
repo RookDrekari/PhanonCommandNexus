@@ -1,0 +1,120 @@
+animal: silver lion
+census:
+  industry:
+    arm: 37621.33
+    aut: 2856.38
+    bas: 15064.81
+    bev: 6186.36
+    boo: 41423.42
+    che: 9377.21
+    fur: 10256.33
+    gam: 1098.98
+    inf: 93032.13
+    ins: 4579.09
+    min: 2264.38
+    piz: 3934.70
+    ret: 35031.35
+    tim: 8480.34
+    tro: 2557.42
+  other:
+    authoritarianism: 822.86
+    average disposable income: 425618.81
+    average income: 426471.76
+    average income of poor: 306946.50
+    average income of rich: 570619.00
+    averageness: 46.07
+    black market: 82012000000000.00
+    business subsidization: 5253.96
+    charmlessness: 0.28
+    cheerfulness: 22.02
+    civil rights: 56.67
+    compassion: 96.38
+    compliance: 161.04
+    corruption: 286.89
+    crime: 1.31
+    culture: 337.00
+    dead: 9384000000.00
+    death rate: 14.65
+    defense forces: 7159.45
+    eco-friendliness: 3348.48
+    economic freedom: 43.33
+    economic output: 12944697000000000.00
+    economy: 100.50
+    employment: 96.85
+    environmental beauty: 3220.42
+    food quality: 423.42
+    foreign aid: 0.00
+    freedom from taxation: 366.24
+    government size: 48.84
+    health: 50.84
+    human development index: 99.41
+    ideological radicality: 8.93
+    ignorance: 0.39
+    inclusiveness: 614.58
+    income equality: 53.79
+    influence: 947.00
+    integrity: 7.77
+    intelligence: 300.01
+    international artwork: 1.68
+    law enforcement: 3588.97
+    lifespan: 98.23
+    niceness: 41.20
+    nudity: 212.50
+    obesity: 0.94
+    pacifism: 8.45
+    patriotism: 119.23
+    percentage zombies: 0.00
+    political apathy: 4.79
+    political freedoms: 34.67
+    population: 30353000000.00
+    primitiveness: -1082.64
+    public education: 6215.96
+    public healthcare: 3792.47
+    public transport: 2127.48
+    recreational drug use: 0.48
+    religiousness: 1.25
+    residency: 486.25
+    rudeness: 257.84
+    safety: 5.67
+    scientific advancement: 1171.16
+    secularism: 99.46
+    social conservatism: 50.50
+    survivors: 19994000000.00
+    taxation: 0.15
+    tourism: 2422.00
+    wealth gaps: 1.86
+    weaponization: 0.10
+    weather: 354.00
+    welfare: 3773.97
+    world assembly endorsements: 0.00
+    youth rebelliousness: 7.00
+    zombies: 0.00
+  sectors:
+    agriculture: 16242.88
+    manufacturing: 55542.52
+currency: lira
+gdp: 12944697199571092
+government:
+  adm: 15.10
+  aid: 0.00
+  com: 11.90
+  def: 16.30
+  edu: 14.10
+  enf: 8.10
+  env: 7.60
+  hea: 8.60
+  soc: 4.90
+  spi: 0.00
+  tra: 4.80
+  wel: 8.60
+nation: croxoco
+population: 30353
+region: new coalition of nations
+sectors:
+  black market: 0.63
+  government: 10.28
+  industry: 89.09
+  public: 0.00
+tax: 0.20
+
+# report generated on 2025-04-11

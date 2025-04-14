@@ -1,96 +1,119 @@
 Animal: Handerflot
 Census:
-  Authoritarianism: 907.70
-  Average Disposable Income: 222625.11
-  Average Income: 247636.38
-  Average Income of Poor: 23079.87
-  Average Income of Rich: 1355718.00
-  Averageness: 37.42
-  Black Market: 377273000000000.00
-  Business Subsidization: 1752.01
-  Charmlessness: 490.95
-  Cheerfulness: 38.55
-  Civil Rights: 40.78
-  Compassion: 9.56
-  Compliance: 95.13
-  Corruption: 199.70
-  Crime: 1.72
-  Culture: 31.00
-  Dead: 13139000000.00
-  Death Rate: 218.88
-  Defense Forces: 22846.27
-  Eco-Friendliness: -53.76
-  Economic Freedom: 58.78
-  Economic Output: 3532781000000000.00
-  Economy: 100.04
-  Employment: 69.43
-  Environmental Beauty: 1.42
-  Food Quality: 3.79
-  Foreign Aid: -21.91
-  Freedom From Taxation: 100.99
-  Government Size: 33.32
-  Health: 0.41
-  Human Development Index: 69.87
-  Ideological Radicality: 17.58
-  Ignorance: 0.89
-  Inclusiveness: 8.46
-  Income Equality: 1.70
-  'Industry: Arms Manufacturing': 51747.50
-  'Industry: Automobile Manufacturing': 11885.67
-  'Industry: Basket Weaving': 1942.63
-  'Industry: Beverage Sales': 3447.96
-  'Industry: Book Publishing': 2015.24
-  'Industry: Cheese Exports': 4238.47
-  'Industry: Furniture Restoration': 5578.41
-  'Industry: Gambling': 2177.77
-  'Industry: Information Technology': 40001.99
-  'Industry: Insurance': 692.40
-  'Industry: Mining': 22818.23
-  'Industry: Pizza Delivery': 2492.63
-  'Industry: Retail': 22397.75
-  'Industry: Timber Woodchipping': 15389.69
-  'Industry: Trout Fishing': -4.38
-  Influence: 868.00
-  Integrity: 20.32
-  Intelligence: 84.81
-  International Artwork: 0.85
-  Law Enforcement: 8129.35
-  Lifespan: 28.60
-  Niceness: 0.18
-  Nudity: 143.50
-  Obesity: 39.30
-  Pacifism: 2.56
-  Patriotism: 62.17
-  Percentage Zombies: 0.00
-  Political Apathy: 61.80
-  Political Freedoms: 20.71
-  Primitiveness: -599.35
-  Public Education: 5501.33
-  Public Healthcare: 665.77
-  Public Transport: -6.32
-  Recreational Drug Use: 96.50
-  Religiousness: 11.01
-  Residency: 451.17
-  Rudeness: 135.78
-  Safety: 21.68
-  Scientific Advancement: 613.08
-  'Sector: Agriculture': 9439.85
-  'Sector: Manufacturing': 65575.79
-  Secularism: 19.76
-  Social Conservatism: 62.42
-  Survivors: 211000000.00
-  Taxation: 10.14
-  Tourism: 11.91
-  Wealth Gaps: 58.74
-  Weaponization: 4.08
-  Weather: -732.00
-  Welfare: -43.24
-  World Assembly Endorsements: 0.00
-  Youth Rebelliousness: -45.00
-  Zombies: 0.00
+  Industry:
+    Arms Manufacturing: 51653.09
+    Automobile Manufacturing: 11664.50
+    Basket Weaving: 2011.99
+    Beverage Sales: 3516.09
+    Book Publishing: 2107.70
+    Cheese Exports: 4308.61
+    Furniture Restoration: 5664.82
+    Gambling: 2202.75
+    Information Technology: 39988.59
+    Insurance: 834.37
+    Mining: 22826.70
+    Pizza Delivery: 2568.42
+    Retail: 22408.12
+    Timber Woodchipping: 15431.74
+    Trout Fishing: -2.53
+  Other:
+    Authoritarianism: 908.53
+    Average Disposable Income: 223767.31
+    Average Income: 248354.40
+    Average Income of Poor: 23146.79
+    Average Income of Rich: 1359649.00
+    Averageness: 37.40
+    Black Market: 372270600000000.00
+    Business Subsidization: 1744.09
+    Charmlessness: 490.74
+    Cheerfulness: 38.55
+    Civil Rights: 40.67
+    Compassion: 9.55
+    Compliance: 95.22
+    Corruption: 199.70
+    Crime: 1.72
+    Culture: 31.00
+    Dead: 13139000000.00
+    Death Rate: 218.81
+    Defense Forces: 22742.98
+    Eco-Friendliness: -53.76
+    Economic Freedom: 58.78
+    Economic Output: 3546004000000000.00
+    Economy: 100.04
+    Employment: 69.65
+    Environmental Beauty: 1.42
+    Food Quality: 3.80
+    Foreign Aid: -21.91
+    Freedom From Taxation: 102.09
+    Government Size: 33.38
+    Health: 0.41
+    Human Development Index: 69.95
+    Ideological Radicality: 17.60
+    Ignorance: 0.88
+    Inclusiveness: 8.46
+    Income Equality: 1.70
+    Influence: 872.00
+    Integrity: 20.32
+    Intelligence: 85.51
+    International Artwork: 0.85
+    Law Enforcement: 8092.60
+    Lifespan: 28.60
+    Niceness: 0.18
+    Nudity: 143.50
+    Obesity: 39.29
+    Pacifism: 2.55
+    Patriotism: 61.56
+    Percentage Zombies: 0.00
+    Political Apathy: 61.80
+    Political Freedoms: 20.71
+    Primitiveness: -600.39
+    Public Education: 5546.22
+    Public Healthcare: 662.76
+    Public Transport: 69.76
+    Recreational Drug Use: 98.49
+    Religiousness: 11.01
+    Residency: 453.17
+    Rudeness: 135.91
+    Safety: 21.68
+    Scientific Advancement: 614.65
+    Secularism: 19.76
+    Social Conservatism: 62.50
+    Survivors: 211000000.00
+    Taxation: 9.91
+    Tourism: 11.92
+    Wealth Gaps: 58.74
+    Weaponization: 4.08
+    Weather: -733.00
+    Welfare: -43.24
+    World Assembly Endorsements: 0.00
+    Youth Rebelliousness: -45.00
+    Zombies: 0.00
+  Sectors:
+    Agriculture: 9480.89
+    Manufacturing: 65329.57
 Currency: Kredit
+GDP: 3546004061404848
+Government:
+  Administration: 1.10
+  Aid: 0.00
+  Commerce: 4.40
+  Defence: 57.90
+  Education: 14.10
+  Enforcement: 20.60
+  Environment: 0.00
+  Healthcare: 1.70
+  Social: 0.00
+  Spirituality: 0.00
+  Transport: 0.20
+  Welfare: 0.00
 Nation: Nation_M
-Population: 14266
+Population: 14278
 Region: New Coalition of Nations
+Sectors:
+  Black Market: 9.50
+  Government: 14.16
+  Industry: 75.49
+  Public: 0.85
+Tax: 9.90
 
-# Report generated on 2025-04-05
+# Report generated on 2025-04-07

@@ -1,96 +1,119 @@
 Animal: pygmy berserker-cat
 Census:
-  Authoritarianism: 432.43
-  Average Disposable Income: 0.00
-  Average Income: 807806.22
-  Average Income of Poor: 503260.15
-  Average Income of Rich: 1223598.00
-  Averageness: 42.87
-  Black Market: 535400000000.00
-  Business Subsidization: 23623.25
-  Charmlessness: 0.16
-  Cheerfulness: 4.15
-  Civil Rights: 65.50
-  Compassion: 8.33
-  Compliance: 361.14
-  Corruption: 295.47
-  Crime: 0.97
-  Culture: 1281.00
-  Dead: 26651000000.00
-  Death Rate: 12.87
-  Defense Forces: 38220.36
-  Eco-Friendliness: 12918.06
-  Economic Freedom: -54.22
-  Economic Output: 22705009000000000.00
-  Economy: 106.18
-  Employment: 98.43
-  Environmental Beauty: 4737.95
-  Food Quality: 738.05
-  Foreign Aid: 669.68
-  Freedom From Taxation: -4028.21
-  Government Size: 139.91
-  Health: 65.45
-  Human Development Index: 100.96
-  Ideological Radicality: 12.13
-  Ignorance: 0.24
-  Inclusiveness: 964.89
-  Income Equality: 41.13
-  'Industry: Arms Manufacturing': 96014.84
-  'Industry: Automobile Manufacturing': 23099.15
-  'Industry: Basket Weaving': 14787.34
-  'Industry: Beverage Sales': 5454.51
-  'Industry: Book Publishing': 33329.56
-  'Industry: Cheese Exports': 16398.46
-  'Industry: Furniture Restoration': 17198.19
-  'Industry: Gambling': 7158.49
-  'Industry: Information Technology': 155544.65
-  'Industry: Insurance': 10043.28
-  'Industry: Mining': 15567.67
-  'Industry: Pizza Delivery': 5772.07
-  'Industry: Retail': 24224.99
-  'Industry: Timber Woodchipping': 8851.44
-  'Industry: Trout Fishing': 24846.15
-  Influence: 5350.00
-  Integrity: 7.05
-  Intelligence: 705.25
-  International Artwork: 10035.84
-  Law Enforcement: 15820.01
-  Lifespan: 102.87
-  Niceness: 0.10
-  Nudity: 214.50
-  Obesity: 0.80
-  Pacifism: 1.33
-  Patriotism: 259.51
-  Percentage Zombies: 0.00
-  Political Apathy: 2.01
-  Political Freedoms: 74.48
-  Primitiveness: -2784.78
-  Public Education: 34056.69
-  Public Healthcare: 16344.11
-  Public Transport: 9268.78
-  Recreational Drug Use: 0.23
-  Religiousness: 1.19
-  Residency: 2691.96
-  Rudeness: 1124.65
-  Safety: 231.45
-  Scientific Advancement: 2905.60
-  'Sector: Agriculture': 39452.97
-  'Sector: Manufacturing': 133901.33
-  Secularism: 99.49
-  Social Conservatism: 42.75
-  Survivors: 530000000.00
-  Taxation: 111.92
-  Tourism: 4099.70
-  Wealth Gaps: 2.43
-  Weaponization: 0.06
-  Weather: -1571.00
-  Welfare: 8249.70
-  World Assembly Endorsements: 0.00
-  Youth Rebelliousness: -110.00
-  Zombies: 0.00
+  Industry:
+    Arms Manufacturing: 95998.34
+    Automobile Manufacturing: 23089.58
+    Basket Weaving: 14781.21
+    Beverage Sales: 5452.25
+    Book Publishing: 33315.75
+    Cheese Exports: 16391.66
+    Furniture Restoration: 17191.07
+    Gambling: 7155.52
+    Information Technology: 155480.22
+    Insurance: 10039.12
+    Mining: 15638.83
+    Pizza Delivery: 5769.68
+    Retail: 24253.77
+    Timber Woodchipping: 8847.77
+    Trout Fishing: 25022.12
+  Other:
+    Authoritarianism: 418.33
+    Average Disposable Income: 0.00
+    Average Income: 808140.96
+    Average Income of Poor: 496320.96
+    Average Income of Rich: 1239067.00
+    Averageness: 43.37
+    Black Market: 534700000000.00
+    Business Subsidization: 23652.27
+    Charmlessness: 0.16
+    Cheerfulness: 4.15
+    Civil Rights: 65.22
+    Compassion: 8.32
+    Compliance: 361.22
+    Corruption: 295.61
+    Crime: 0.97
+    Culture: 1282.00
+    Dead: 26651000000.00
+    Death Rate: 12.87
+    Defense Forces: 38253.04
+    Eco-Friendliness: 12893.30
+    Economic Freedom: -52.44
+    Economic Output: 22724924000000000.00
+    Economy: 106.20
+    Employment: 98.44
+    Environmental Beauty: 4725.49
+    Food Quality: 738.43
+    Foreign Aid: 669.40
+    Freedom From Taxation: -4032.51
+    Government Size: 139.99
+    Health: 65.45
+    Human Development Index: 100.95
+    Ideological Radicality: 11.63
+    Ignorance: 0.24
+    Inclusiveness: 965.21
+    Income Equality: 40.06
+    Influence: 5354.00
+    Integrity: 7.04
+    Intelligence: 705.56
+    International Artwork: 10107.63
+    Law Enforcement: 15813.45
+    Lifespan: 102.86
+    Niceness: 0.10
+    Nudity: 214.25
+    Obesity: 0.80
+    Pacifism: 1.33
+    Patriotism: 260.22
+    Percentage Zombies: 0.00
+    Political Apathy: 2.01
+    Political Freedoms: 74.95
+    Primitiveness: -2785.01
+    Public Education: 34110.50
+    Public Healthcare: 16337.34
+    Public Transport: 9332.85
+    Recreational Drug Use: 0.22
+    Religiousness: 1.19
+    Residency: 2693.96
+    Rudeness: 1160.53
+    Safety: 231.40
+    Scientific Advancement: 2905.82
+    Secularism: 99.49
+    Social Conservatism: 43.17
+    Survivors: 530000000.00
+    Taxation: 111.94
+    Tourism: 4100.42
+    Wealth Gaps: 2.50
+    Weaponization: 0.06
+    Weather: -1574.00
+    Welfare: 8246.28
+    World Assembly Endorsements: 0.00
+    Youth Rebelliousness: -110.00
+    Zombies: 0.00
+  Sectors:
+    Agriculture: 39436.62
+    Manufacturing: 133869.14
 Currency: Athcoin
+GDP: 22724923935422564
+Government:
+  Administration: 12.00
+  Aid: 0.40
+  Commerce: 12.50
+  Defence: 20.10
+  Education: 18.00
+  Enforcement: 8.30
+  Environment: 6.80
+  Healthcare: 8.60
+  Social: 4.10
+  Spirituality: 0.00
+  Transport: 4.90
+  Welfare: 4.30
 Nation: Athretvari
-Population: 28107
+Population: 28120
 Region: New Coalition of Nations
+Sectors:
+  Black Market: 0.00
+  Government: 23.52
+  Industry: 0.00
+  Public: 76.47
+Tax: 100.00
 
-# Report generated on 2025-04-05
+# Report generated on 2025-04-07

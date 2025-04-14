@@ -1,10 +1,14 @@
 FOREX:
   AthCoins: 0
   Kredits: 0
+Liabilities:
+  '001':
+    creditor: broker
+    interest: 0
+    principal: 0
 Nation: Moarfall
 Portfolio:
-  HARM: 0
+  DLTA: 0
 Treasury:
-  Sovereign: 0
-  Soveriegn: 7507875000000000.00
+  Sovereign: 1716637977837162.50
   Trade: 0

@@ -1,10 +1,14 @@
 FOREX:
   AthCoins: 0
   Kredits: 0
+Liabilities:
+  '001':
+    creditor: broker
+    interest: 0
+    principal: 0
 Nation: The_Way_Sun_Cooperation
 Portfolio:
-  HARM: 0
+  DLTA: 0
 Treasury:
-  Sovereign: 0
-  Soveriegn: 462609000000000.00
+  Sovereign: 589013142155743.38
   Trade: 0

@@ -1,96 +1,119 @@
 Animal: Hawk
 Census:
-  Authoritarianism: 708.33
-  Average Disposable Income: 185473.76
-  Average Income: 195441.26
-  Average Income of Poor: 2360.76
-  Average Income of Rich: 1784164.00
-  Averageness: 27.45
-  Black Market: 3648700000000.00
-  Business Subsidization: 6226.33
-  Charmlessness: 248.45
-  Cheerfulness: 36.31
-  Civil Rights: 44.33
-  Compassion: 10.76
-  Compliance: 66.54
-  Corruption: 167.74
-  Crime: 2.52
-  Culture: 60.00
-  Dead: 1449000000.00
-  Death Rate: 220.17
-  Defense Forces: 7196.67
-  Eco-Friendliness: -10.00
-  Economic Freedom: 84.44
-  Economic Output: 462609000000000.00
-  Economy: 100.22
-  Employment: 70.11
-  Environmental Beauty: 3.21
-  Food Quality: 4.60
-  Foreign Aid: -12.65
-  Freedom From Taxation: 136.17
-  Government Size: 23.07
-  Health: 0.41
-  Human Development Index: 64.85
-  Ideological Radicality: 27.55
-  Ignorance: 1.28
-  Inclusiveness: 9.14
-  Income Equality: 0.13
-  'Industry: Arms Manufacturing': 24051.44
-  'Industry: Automobile Manufacturing': 8312.56
-  'Industry: Basket Weaving': 3331.49
-  'Industry: Beverage Sales': 11498.50
-  'Industry: Book Publishing': 9202.04
-  'Industry: Cheese Exports': 2509.94
-  'Industry: Furniture Restoration': 7342.22
-  'Industry: Gambling': 7209.31
-  'Industry: Information Technology': 27492.90
-  'Industry: Insurance': 7600.98
-  'Industry: Mining': 9444.62
-  'Industry: Pizza Delivery': 5222.36
-  'Industry: Retail': 26474.05
-  'Industry: Timber Woodchipping': 8312.56
-  'Industry: Trout Fishing': -18.59
-  Influence: 363.00
-  Integrity: 28.52
-  Intelligence: 54.39
-  International Artwork: 99.49
-  Law Enforcement: 4487.81
-  Lifespan: 28.56
-  Niceness: 0.24
-  Nudity: 36.25
-  Obesity: 47.16
-  Pacifism: 3.86
-  Patriotism: 60.63
-  Percentage Zombies: 0.00
-  Political Apathy: 55.69
-  Political Freedoms: 13.71
-  Primitiveness: -447.86
-  Public Education: 1415.08
-  Public Healthcare: -6.32
-  Public Transport: -3.16
-  Recreational Drug Use: 232.27
-  Religiousness: 3.24
-  Residency: 147.07
-  Rudeness: 110.76
-  Safety: 11.01
-  Scientific Advancement: 476.39
-  'Sector: Agriculture': 4900.21
-  'Sector: Manufacturing': 35695.49
-  Secularism: 89.98
-  Social Conservatism: 59.75
-  Survivors: 0.00
-  Taxation: 5.09
-  Tourism: 18.36
-  Wealth Gaps: 755.76
-  Weaponization: 5.25
-  Weather: -242.00
-  Welfare: -18.97
-  World Assembly Endorsements: 1.00
-  Youth Rebelliousness: -10.00
-  Zombies: 0.00
+  Industry:
+    Arms Manufacturing: 23986.59
+    Automobile Manufacturing: 8290.15
+    Basket Weaving: 3290.25
+    Beverage Sales: 11467.50
+    Book Publishing: 9128.84
+    Cheese Exports: 2503.17
+    Furniture Restoration: 7322.43
+    Gambling: 7227.61
+    Information Technology: 27418.77
+    Insurance: 7580.48
+    Mining: 9419.15
+    Pizza Delivery: 5208.28
+    Retail: 26886.53
+    Timber Woodchipping: 8290.15
+    Trout Fishing: -18.59
+  Other:
+    Authoritarianism: 690.90
+    Average Disposable Income: 186005.77
+    Average Income: 195795.55
+    Average Income of Poor: 2365.04
+    Average Income of Rich: 1787398.00
+    Averageness: 27.90
+    Black Market: 3256700000000.00
+    Business Subsidization: 6209.55
+    Charmlessness: 257.05
+    Cheerfulness: 36.31
+    Civil Rights: 46.56
+    Compassion: 10.74
+    Compliance: 66.41
+    Corruption: 167.74
+    Crime: 2.53
+    Culture: 59.00
+    Dead: 1449000000.00
+    Death Rate: 220.67
+    Defense Forces: 7177.27
+    Eco-Friendliness: -10.00
+    Economic Freedom: 84.78
+    Economic Output: 465798000000000.00
+    Economy: 100.21
+    Employment: 70.26
+    Environmental Beauty: 3.11
+    Food Quality: 4.57
+    Foreign Aid: -12.65
+    Freedom From Taxation: 137.32
+    Government Size: 23.07
+    Health: 0.41
+    Human Development Index: 64.84
+    Ideological Radicality: 27.10
+    Ignorance: 1.27
+    Inclusiveness: 9.14
+    Income Equality: 0.13
+    Influence: 371.00
+    Integrity: 28.52
+    Intelligence: 54.56
+    International Artwork: 99.49
+    Law Enforcement: 4475.71
+    Lifespan: 28.54
+    Niceness: 0.24
+    Nudity: 36.50
+    Obesity: 47.16
+    Pacifism: 3.85
+    Patriotism: 60.62
+    Percentage Zombies: 0.00
+    Political Apathy: 55.69
+    Political Freedoms: 13.71
+    Primitiveness: -448.14
+    Public Education: 1411.26
+    Public Healthcare: -6.32
+    Public Transport: -3.16
+    Recreational Drug Use: 232.64
+    Religiousness: 3.24
+    Residency: 149.07
+    Rudeness: 111.32
+    Safety: 11.00
+    Scientific Advancement: 476.39
+    Secularism: 89.98
+    Social Conservatism: 58.08
+    Survivors: 0.00
+    Taxation: 4.98
+    Tourism: 18.00
+    Wealth Gaps: 755.76
+    Weaponization: 5.27
+    Weather: -253.00
+    Welfare: -18.97
+    World Assembly Endorsements: 1.00
+    Youth Rebelliousness: -10.00
+    Zombies: 0.00
+  Sectors:
+    Agriculture: 5249.89
+    Manufacturing: 35566.99
 Currency: Standard Monetary Credit
+GDP: 465797601969945
+Government:
+  Administration: 10.70
+  Aid: 0.00
+  Commerce: 28.80
+  Defence: 33.30
+  Education: 6.50
+  Enforcement: 20.70
+  Environment: 0.00
+  Healthcare: 0.00
+  Social: 0.00
+  Spirituality: 0.00
+  Transport: 0.00
+  Welfare: 0.00
 Nation: The_Way_Sun_Cooperation
-Population: 2367
+Population: 2379
 Region: New Coalition of Nations
+Sectors:
+  Black Market: 0.69
+  Government: 10.88
+  Industry: 88.43
+  Public: 0.00
+Tax: 5.00
 
-# Report generated on 2025-04-05
+# Report generated on 2025-04-07

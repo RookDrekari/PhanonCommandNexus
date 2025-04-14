@@ -1,0 +1,120 @@
+animal: elk
+census:
+  industry:
+    arm: 33911.05
+    aut: -11.75
+    bas: 6302.48
+    bev: 2113.09
+    boo: 37916.41
+    che: 4294.72
+    fur: 10051.48
+    gam: 4601.14
+    inf: 54115.53
+    ins: -12.63
+    min: -6.16
+    piz: -22.89
+    ret: 9721.51
+    tim: -22.32
+    tro: -9.12
+  other:
+    authoritarianism: 277.29
+    average disposable income: 56353.71
+    average income: 247165.39
+    average income of poor: 174067.83
+    average income of rich: 336998.00
+    averageness: 37.72
+    black market: 2082800000000.00
+    business subsidization: 5393.79
+    charmlessness: 0.48
+    cheerfulness: 36.31
+    civil rights: 79.44
+    compassion: 29.05
+    compliance: 114.51
+    corruption: 91.64
+    crime: 1.54
+    culture: 175.00
+    dead: 30025000000.00
+    death rate: 18.81
+    defense forces: 14182.48
+    eco-friendliness: 317.28
+    economic freedom: 59.44
+    economic output: 7774093000000000.00
+    economy: 100.61
+    employment: 79.90
+    environmental beauty: 2437.05
+    food quality: 224.03
+    foreign aid: -28.81
+    freedom from taxation: -153.95
+    government size: 41.64
+    health: 18.86
+    human development index: 97.53
+    ideological radicality: 17.28
+    ignorance: 0.48
+    inclusiveness: 252.84
+    income equality: 51.65
+    influence: 9180.00
+    integrity: 61.22
+    intelligence: 214.15
+    international artwork: 103.95
+    law enforcement: 8344.50
+    lifespan: 92.60
+    niceness: 0.75
+    nudity: 199.75
+    obesity: 4.87
+    pacifism: 3.70
+    patriotism: 58.49
+    percentage zombies: 0.00
+    political apathy: 5.16
+    political freedoms: 68.19
+    population: 31453000000.00
+    primitiveness: -691.58
+    public education: 19576.27
+    public healthcare: 6186.99
+    public transport: 1015.30
+    recreational drug use: 48.40
+    religiousness: 4.02
+    residency: 373.82
+    rudeness: 62.95
+    safety: 117.98
+    scientific advancement: 725.91
+    secularism: 77.65
+    social conservatism: 21.83
+    survivors: 475000000.00
+    taxation: 77.16
+    tourism: 1619.63
+    wealth gaps: 1.94
+    weaponization: 0.20
+    weather: 187.00
+    welfare: -13.42
+    world assembly endorsements: 3.00
+    youth rebelliousness: 26.00
+    zombies: 0.00
+  sectors:
+    agriculture: 190.37
+    manufacturing: 40213.53
+currency: kredit
+gdp: 7774092860811731
+government:
+  adm: 0.00
+  aid: 0.00
+  com: 9.80
+  def: 25.80
+  edu: 35.60
+  enf: 15.20
+  env: 0.60
+  hea: 11.20
+  soc: 0.00
+  spi: 0.00
+  tra: 1.80
+  wel: 0.00
+nation: st_saratoga
+population: 31453
+region: new coalition of nations
+sectors:
+  black market: 0.03
+  government: 22.25
+  industry: 77.72
+  public: 0.00
+tax: 77.20
+
+# report generated on 2025-04-11

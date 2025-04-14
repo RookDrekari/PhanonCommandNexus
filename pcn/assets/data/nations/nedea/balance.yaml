@@ -1,9 +1,14 @@
 FOREX:
   AthCoins: 0
   Kredits: 0
+Liabilities:
+  '001':
+    creditor: broker
+    interest: 0
+    principal: 0
 Nation: Nedea
 Portfolio:
-  HARM: 0
+  DLTA: 0
 Treasury:
-  Soveriegn: 12970254000000000.00
+  Sovereign: 2912071486348133.50
   Trade: 0

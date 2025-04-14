@@ -1,10 +1,14 @@
 FOREX:
   AthCoins: 0
   Kredits: 0
+Liabilities:
+  '001':
+    creditor: broker
+    interest: 0
+    principal: 0
 Nation: St_Saratoga
 Portfolio:
-  HARM: 0
+  DLTA: 0
 Treasury:
-  Sovereign: 0
-  Soveriegn: 7759857000000000.00
+  Sovereign: 1430775308617847.75
   Trade: 0

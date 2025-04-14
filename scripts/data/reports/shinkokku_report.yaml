@@ -1,0 +1,120 @@
+animal: haast eagle
+census:
+  industry:
+    arm: 21157.46
+    aut: 3390.92
+    bas: 2545.58
+    bev: 1361.15
+    boo: 6488.13
+    che: 6361.57
+    fur: 4823.71
+    gam: 3055.85
+    inf: 16906.87
+    ins: 869.22
+    min: 5540.10
+    piz: 3109.14
+    ret: 3892.40
+    tim: 525.35
+    tro: 76.42
+  other:
+    authoritarianism: 505.17
+    average disposable income: 90356.23
+    average income: 142742.85
+    average income of poor: 75514.05
+    average income of rich: 248039.00
+    averageness: 48.31
+    black market: 13750400000000.00
+    business subsidization: 2626.77
+    charmlessness: 1.06
+    cheerfulness: 53.38
+    civil rights: 63.44
+    compassion: 17.08
+    compliance: 66.00
+    corruption: 56.40
+    crime: 2.56
+    culture: 86.00
+    dead: 0.00
+    death rate: 26.98
+    defense forces: 9910.10
+    eco-friendliness: 1850.68
+    economic freedom: -52.33
+    economic output: 114052000000000.00
+    economy: 96.79
+    employment: 73.88
+    environmental beauty: 843.90
+    food quality: 117.73
+    foreign aid: -12.65
+    freedom from taxation: 29.68
+    government size: 21.84
+    health: 0.87
+    human development index: 77.57
+    ideological radicality: 6.69
+    ignorance: 1.39
+    inclusiveness: 148.38
+    income equality: 30.44
+    influence: 280.00
+    integrity: 84.08
+    intelligence: 50.01
+    international artwork: 18.66
+    law enforcement: 3044.67
+    lifespan: 78.52
+    niceness: 0.89
+    nudity: 1213.75
+    obesity: 9.50
+    pacifism: 4.97
+    patriotism: 34.38
+    percentage zombies: 0.00
+    political apathy: 41.19
+    political freedoms: 68.19
+    population: 799000000.00
+    primitiveness: -275.85
+    public education: 3402.86
+    public healthcare: 1671.58
+    public transport: 1910.38
+    recreational drug use: 218.71
+    religiousness: 1233.61
+    residency: 140.27
+    rudeness: 112.08
+    safety: 11.57
+    scientific advancement: 296.80
+    secularism: 12.45
+    social conservatism: 45.42
+    survivors: 5000000.00
+    taxation: 36.74
+    tourism: 1142.23
+    wealth gaps: 3.28
+    weaponization: 3.55
+    weather: 111.00
+    welfare: 119.40
+    world assembly endorsements: 0.00
+    youth rebelliousness: -6.00
+    zombies: 0.00
+  sectors:
+    agriculture: 7522.12
+    manufacturing: 27093.97
+currency: denarius
+gdp: 114051538427962
+government:
+  adm: 10.10
+  aid: 0.00
+  com: 9.30
+  def: 34.90
+  edu: 12.00
+  enf: 10.70
+  env: 6.50
+  hea: 5.90
+  soc: 0.00
+  spi: 3.40
+  tra: 6.70
+  wel: 0.40
+nation: shinkokku
+population: 799
+region: new coalition of nations
+sectors:
+  black market: 10.76
+  government: 17.80
+  industry: 0.00
+  public: 71.44
+tax: 36.70
+
+# report generated on 2025-04-11

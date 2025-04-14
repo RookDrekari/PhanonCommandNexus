@@ -1,0 +1,120 @@
+animal: pygmy berserker-cat
+census:
+  industry:
+    arm: 96215.04
+    aut: 23093.78
+    bas: 14844.56
+    bev: 5457.33
+    boo: 33325.64
+    che: 16402.25
+    fur: 17198.16
+    gam: 7156.85
+    inf: 155435.04
+    ins: 10054.37
+    min: 15646.68
+    piz: 5757.08
+    ret: 24257.39
+    tim: 8858.95
+    tro: 25034.68
+  other:
+    authoritarianism: 435.40
+    average disposable income: 0.00
+    average income: 808537.25
+    average income of poor: 497458.24
+    average income of rich: 1237784.00
+    averageness: 44.05
+    black market: 535300000000.00
+    business subsidization: 23640.68
+    charmlessness: 0.16
+    cheerfulness: 4.15
+    civil rights: 62.44
+    compassion: 8.31
+    compliance: 361.57
+    corruption: 296.23
+    crime: 0.97
+    culture: 1286.00
+    dead: 26651000000.00
+    death rate: 12.87
+    defense forces: 38302.17
+    eco-friendliness: 12886.98
+    economic freedom: -52.67
+    economic output: 22757898000000000.00
+    economy: 106.20
+    employment: 98.44
+    environmental beauty: 4725.06
+    food quality: 738.78
+    foreign aid: 669.08
+    freedom from taxation: -4034.60
+    government size: 140.04
+    health: 65.41
+    human development index: 100.95
+    ideological radicality: 10.95
+    ignorance: 0.24
+    inclusiveness: 964.26
+    income equality: 40.19
+    influence: 5361.00
+    integrity: 6.99
+    intelligence: 705.86
+    international artwork: 10119.23
+    law enforcement: 15815.40
+    lifespan: 102.86
+    niceness: 0.10
+    nudity: 213.50
+    obesity: 0.80
+    pacifism: 1.32
+    patriotism: 260.58
+    percentage zombies: 0.00
+    political apathy: 2.01
+    political freedoms: 75.43
+    population: 28147000000.00
+    primitiveness: -2784.90
+    public education: 34142.26
+    public healthcare: 16339.03
+    public transport: 9328.27
+    recreational drug use: 0.22
+    religiousness: 1.19
+    residency: 2697.96
+    rudeness: 1166.94
+    safety: 231.34
+    scientific advancement: 2906.29
+    secularism: 99.50
+    social conservatism: 46.17
+    survivors: 530000000.00
+    taxation: 111.95
+    tourism: 4104.54
+    wealth gaps: 2.49
+    weaponization: 0.06
+    weather: -1580.00
+    welfare: 8242.24
+    world assembly endorsements: 0.00
+    youth rebelliousness: -110.00
+    zombies: 0.00
+  sectors:
+    agriculture: 39436.69
+    manufacturing: 134153.39
+currency: athcoin
+gdp: 22757897836078284
+government:
+  adm: 12.00
+  aid: 0.40
+  com: 12.40
+  def: 20.20
+  edu: 18.00
+  enf: 8.30
+  env: 6.80
+  hea: 8.60
+  soc: 4.10
+  spi: 0.00
+  tra: 4.90
+  wel: 4.30
+nation: athretvari
+population: 28147
+region: new coalition of nations
+sectors:
+  black market: 0.00
+  government: 23.52
+  industry: 0.00
+  public: 76.48
+tax: 100.00
+
+# report generated on 2025-04-11

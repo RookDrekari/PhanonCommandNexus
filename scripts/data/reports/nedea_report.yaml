@@ -1,0 +1,120 @@
+animal: pony
+census:
+  industry:
+    arm: 62480.00
+    aut: 17804.37
+    bas: 6666.83
+    bev: 18141.63
+    boo: 7208.02
+    che: 8470.80
+    fur: 14431.74
+    gam: 31799.26
+    inf: 52801.33
+    ins: 17537.70
+    min: 27686.97
+    piz: 13336.81
+    ret: 45114.86
+    tim: 21333.87
+    tro: 4078.53
+  other:
+    authoritarianism: 708.95
+    average disposable income: 403828.23
+    average income: 403828.23
+    average income of poor: 60719.34
+    average income of rich: 1724432.00
+    averageness: 33.92
+    black market: 130170000000000.00
+    business subsidization: 3686.37
+    charmlessness: 1132.59
+    cheerfulness: 8.52
+    civil rights: 53.89
+    compassion: 7.85
+    compliance: 3.11
+    corruption: 434.52
+    crime: 73.80
+    culture: 9.00
+    dead: 31252000000.00
+    death rate: 509.67
+    defense forces: 5196.21
+    eco-friendliness: -71.20
+    economic freedom: 74.78
+    economic output: 13016999000000000.00
+    economy: 100.74
+    employment: 90.63
+    environmental beauty: 1.04
+    food quality: 2.69
+    foreign aid: -38.60
+    freedom from taxation: 1082.48
+    government size: 22.65
+    health: 0.31
+    human development index: 63.75
+    ideological radicality: 21.08
+    ignorance: 0.81
+    inclusiveness: 5.95
+    income equality: 3.52
+    influence: 6189.00
+    integrity: 1.40
+    intelligence: 95.85
+    international artwork: 340.72
+    law enforcement: 1176.50
+    lifespan: 23.49
+    niceness: 0.10
+    nudity: 762.00
+    obesity: 81.99
+    pacifism: 1.97
+    patriotism: 42.19
+    percentage zombies: 0.00
+    political apathy: 67.36
+    political freedoms: 16.14
+    population: 32234000000.00
+    primitiveness: -874.31
+    public education: -7.75
+    public healthcare: -40.99
+    public transport: -38.73
+    recreational drug use: 89.01
+    religiousness: 2.45
+    residency: 3168.82
+    rudeness: 226.40
+    safety: 2.50
+    scientific advancement: 934.46
+    secularism: 98.17
+    social conservatism: 52.58
+    survivors: 3000000.00
+    taxation: -8.88
+    tourism: 6.64
+    wealth gaps: 28.40
+    weaponization: 38.99
+    weather: -1556.00
+    welfare: -58.99
+    world assembly endorsements: 0.00
+    youth rebelliousness: -6.00
+    zombies: 0.00
+  sectors:
+    agriculture: 13412.10
+    manufacturing: 86951.21
+currency: kredit
+gdp: 13016999308268690
+government:
+  adm: 0.00
+  aid: 0.00
+  com: 36.60
+  def: 51.70
+  edu: 0.00
+  enf: 11.70
+  env: 0.00
+  hea: 0.00
+  soc: 0.00
+  spi: 0.00
+  tra: 0.00
+  wel: 0.00
+nation: nedea
+population: 32234
+region: new coalition of nations
+sectors:
+  black market: 0.99
+  government: 2.47
+  industry: 96.54
+  public: 0.00
+tax: 0.00
+
+# report generated on 2025-04-11

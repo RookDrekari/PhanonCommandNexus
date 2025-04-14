@@ -1,0 +1,14 @@
+FOREX:
+  AthCoins: 0
+  Kredits: 0
+Liabilities:
+  '001':
+    creditor: broker
+    interest: 0
+    principal: 0
+Nation: Shinkokku
+Portfolio:
+  DLTA: 0
+Treasury:
+  Sovereign: 99322141635681.92
+  Trade: 0
