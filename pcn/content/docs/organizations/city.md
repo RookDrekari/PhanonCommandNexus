@@ -1,9 +1,11 @@
-+++
-date = '2025-04-19T19:19:25-05:00'
-draft = true
-title = 'City'
-+++
-
+---
+weight: 999
+title: "DarkHaven"
+description: ""
+icon: "article"
+draft: false
+toc: true
+---
 # DarkHaven
 
 DarkHaven is the capitol of Nedea.
@@ -12,7 +14,7 @@ DarkHaven is the capitol of Nedea.
 
 ### State District
 
-The State District is where most 
+The State District is where most government and foriegn business is conducted.
 
 #### Affairs Plaza
 

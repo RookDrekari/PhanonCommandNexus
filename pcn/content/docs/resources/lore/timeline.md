@@ -10,8 +10,10 @@ toc: true
 
 The nearly comprehensive history of ENKON. Please add and enjoy!
 
-## Pre-Imperial Era
+## Ancient Era
 - **-500,000 AI:** The Doec establish gates across the Abraxi Cluster, including the Enkon system. They flourish, then vanish, leaving NEXUS and other relics.
+
+- **-499,999 AI:** The Doec wake up the [REDACTED] leading to their eventual collapse.
 
 - **-2000 AI:** The PIV Stellar Waves arrives. Researchers discover and dock with the derelict station orbiting Enkon Delta.
 
@@ -19,11 +21,13 @@ The nearly comprehensive history of ENKON. Please add and enjoy!
 
 - **-1960 AI:** Prolonged Doecium exposure renders the crew infertile. They activate a beacon via NEXUS to summon humanity and seal the station.
 
+## Pre-Imperial Era
+
 - **-500 AI:** First human settlers arrive, drawn by the beacon, and begin colonizing Enkon Delta.
 
-- **-250 AI:** Additional settlers arrive, but technological progress stalls due to isolation.
+- **-500 AI:** The Manticoran Colony Expedition, made up of 13 ships from Old Earth, arrives on Enkon, depositing their passengers on the shores of Arach.  The colonists rapidly establish themselves and begin building themselves a home.
 
-- **250 AI:** The Manticoran Colony Expedition, made up of 13 ships from Old Earth, arrives on Enkon, depositing their passengers on the shores of Arach.  The colonists rapidly establish themselves and begin building themselves a home.
+- **-250 AI:** Additional settlers arrive, but technological progress stalls due to isolation.
 
 - **-175 AI:** The name "Enkon" is first recorded, origin unknown.
 
@@ -39,6 +43,8 @@ The nearly comprehensive history of ENKON. Please add and enjoy!
 - **5 AI:** General Lancelot Valin lands on continental Belemira.
 
 - **100 AI:** The Confederation of Manticore is annexed by the Gresk Empire with minimal resistance.  The Confederation's lack of a standing military and internal divisions leave it a ripe target for the Gresk.
+
+- **125 AI:** The Greskin colony of Metropol is established as a forge town in northern Belemira.
 
 - **130 AI:** Gresk reaches its zenith, controlling over 50% of Enkon Delta’s nations and colonies.
 
@@ -56,18 +62,26 @@ The nearly comprehensive history of ENKON. Please add and enjoy!
 
 - **250 AI:** Manticore declares independence from the Gresk Empire after nearly 70 years of fighting.  The Gresk, facing threats on multiple fronts, find themselves losing ground to the Manticoran rebellion.
 
+- **253 AI:** Taking advantage of the weakening of the empire, Metropol breaks away from Gresk. Emboldened by desires for a grand empire of their own and the success of the Manticoran rebellion, they attempt to begin conquests of their own.
+
+- **254 AI:** The fledgling Empire of Metropol is rapidly crushed, and a bloody warlord period begins in the northern region of Belemira to fight for the ashes.
+
+- **260 AI:** A warlord finally emerges as a definitive victor from the Metropolitan warlord period. Spreading dogma of safety in isolationism from the outside world, she becomes the first Archgoverness and establishes the Great City of Neo metropol.
+
 - **272 AI:** Gresk begins persecuting the faithful of Divine Providence.
 
-- **277 AI:** Gresk Civil War begins. The UCF and People of St. Saratoga lead the rebellion.
+- **275 AI:** The Gresk Revolutionary Wars begin.
+
+- **277 AI:** The UCF and People of St. Saratoga join the rebellion against Gresk
 
 - **278 AI:** Bands of Moarish warriors travel to Gresk to aid the UCF.
 
-- **283 AI:** Gresk Civil War ends. The empire collapses, reduced to its heartland; rebels migrate to new regions.
+- **283 AI:** The Gresk Revolutionary Wars ends. The empire collapses, reduced to its heartland; rebels migrate to new regions.
 
 - **283 AI:** The Manticoran Republic is established with the adoption of the Manticoran Constitution.
 
 ## Post-Imperial Era
-- **284 AI:** Modern Saratoga is formed after the Gresk Civil War.
+- **284 AI:** Modern Saratoga is formed after the Gresk Revolutionary Wars.
 
 - **285 AI:** Valinfort see the arrival of Old World refugees.
 
@@ -77,7 +91,7 @@ The nearly comprehensive history of ENKON. Please add and enjoy!
 
 - **290 AI:** Corporations arrive from earth and the first Corporate War erupts with Devlon gaining power in the Way Sun Confederacy.
 
-- **295 AI:** The Commerce Conflict erupts in the region now called Nedea.
+- **295 AI:** The Commerce Conflict erupts in the nation-state now called Nedea.
 
 - **297 AI:** William Dunarric, a Moarfallian entrepreneur founds Harmony.
 
@@ -85,11 +99,11 @@ The nearly comprehensive history of ENKON. Please add and enjoy!
 
 - **303 AI:** The Echelon Accord is signed by Moarfall, Nedea, and Saratoga, founding the Kredit Union.
 
-- **326 AI:** The 'Pharma' War begin, new Corporations rise up from the chaos in the Way Sun Confederacy.
+- **326 AI:** The 'Pharma' War begins, new Corporations rise up from the chaos in the Way Sun Confederacy.
 
 - **352 AI:** The Moarish Conflict breaks out in Moarfall.
 
-- **354 AI:** The Moarish Conflict concludes with the 3 month Talos Strategic Command.
+- **354 AI:** The Moarish Conflict concludes with the 3 month siege of Talos Strategic Command.
 
 - **360 AI:** The Golden Era, a massive economic boom as the Confederacy expands in the Way Sun Confederacy.
 
@@ -113,6 +127,20 @@ The nearly comprehensive history of ENKON. Please add and enjoy!
 
 - **495 AI:** Chussen K'Iver Chekt is formed by a union of the New Martinsburg, Warden Ernest, OHakni, and OSetho clanates.
 
+## Delta Era
 
+- **500 AI:** First Annual Enkon World's Fair.
 
-- **500 AI:** Present day.
+- **500 AI:** The World Forum is established in Aventus, Croxoco.
+
+- **500 AI:** Treaty for Industrial Defense & Economics is established with Nedea, Way Sun, and Nation M as founding members.
+
+- **500 AI:** After nearly three centuries of growing into an immense urban fortress of a City-State, Archgoverness XI of Neo Metropol ends the city's policy of total isolationism and Autarky, beginning to establish itself on the international stage.
+
+- **500 AI:** IverChekt hosts a global potluck that goes seriously awry.
+
+- **501 AI:** Present Day.
+
+- **501 AI:** Gresk vassalizes Mercati. Gresk revanchism renews.
+
+- **501 AI:** Arach Union is formed with Manticore, IverChekt, Urbani, and Gorsin Federation as founding members.
